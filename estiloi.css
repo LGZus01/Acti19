@@ -1,0 +1,50 @@
+#main-container{
+	margin: 50px auto;
+	width: 500px;
+}
+body{
+	background: #632432;
+}
+table{
+	border:1px solid;
+	border-collapse: collapse;
+	text-align: justify;
+	width: 100%;
+}
+td{
+	text-align: center;
+	border:1px solid;
+	width: 100%;
+}
+tr{
+	text-align: center;
+	border:1px solid;
+	width: 100%;
+}
+caption{
+	border:1px solid;
+}
+table #SECO{
+	background-color: #CB3207;
+}
+table #HUM{
+	background-color: #0514BB;
+}
+table #Semi-HUM{
+	background-color: #0E9BAB;
+}
+table #TEMPLADO{
+	background-color: #E4E00B;
+}
+table #E1{
+	background-color: #929173;
+}
+table #E2{
+	background-color: #929173;
+}
+table #E3{
+	background-color: #929173;
+}
+table #E4{
+	background-color: #929173;
+}
